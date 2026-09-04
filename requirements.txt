@@ -4,7 +4,7 @@ asyncpg==0.29.0
 atomicwrites==1.4.1
 attrs==21.4.0
 backports.cached-property==1.0.2
-click==8.1.7
+click==8.5.0
 colorama==0.4.6
 coverage==6.5.0
 fastapi==0.78.0
